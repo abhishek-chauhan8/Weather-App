@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const userInfoContainer = document.querySelector(".user-info-container");
 
   let currentTab = userTab;
-  const APIKEY = "c328f330c23edfe66ebcbf1bb836a599";
+  const APIKEY = "XXXXXXXXXXXXXXXXXXXXXXX"; // replace it with your OpenWeather API Key
 
   currentTab.classList.add("current-tab");
 

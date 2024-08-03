@@ -42,10 +42,6 @@ The app will display current weather conditions and a 7-day forecast for the sel
 
 The default page is setup of your local location.
 
-## Contact
 
-### For questions or support, please contact
-
-[Abhishek Chauhan](mailto:abhishek882chauhan@gmail.com)
 
 
